@@ -1,1 +1,7 @@
-# hh_data_analytics
+<h3>Задача</h3>
+
+Сфомирвать отчёт на основе данных файла HH_data.csv, которые получили с сайта hh по ключевым запросам. Нужно показать срезы по разным ролям и навыкам.
+
+<h3>Решение</h3>
+
+[Ссылка на дашборд](https://public.tableau.com/app/profile/denis1124/viz/HH_data_analytics/Dashboard1)
